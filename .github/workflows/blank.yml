@@ -1,5 +1,6 @@
-$title=filter
-$description=filter
+! name: filter for search
+! description: Remove and/or deprioritise low-quality results
+! public: false
 
 $discard,site=google.com
 $discard,site=facebook.com
