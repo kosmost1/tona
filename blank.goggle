@@ -1,5 +1,5 @@
-$title=filter for search
-$description=Remove and/or deprioritise low-quality results
+$title=domain filter
+$description=Remove certain results
 
 $discard,site=google.com
 $discard,site=facebook.com
