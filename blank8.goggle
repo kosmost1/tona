@@ -3,7 +3,7 @@
 ! public: false
 ! author: Dave Canopy
 
-$boost=3,site=britannica.com
+$boost=6,site=britannica.com
 $boost=4,site=openstreetmap.org
 $boost=4,site=odysee.com
 $boost=4,site=bittube.video
@@ -29163,7 +29163,6 @@ $discard=8,site=foxnews.com
 $discard=8,site=techcrunch.com
 $discard=8,site=wikipedia.org
 ! US boosts
-$boost=8,site=britannica.com
 $discard,site=allgemeine-zeitung.de
 $discard,site=ard.de
 $discard,site=berliner-zeitung.de
