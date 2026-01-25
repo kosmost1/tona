@@ -3,14 +3,14 @@
 ! public: false
 ! author: Dave Canopy
 
-$boost=4,site=britannica.com
-$boost=5,site=openstreetmap.org
+$boost=3,site=britannica.com
+$boost=4,site=openstreetmap.org
 $boost=4,site=odysee.com
 $boost=4,site=bittube.video
 $boost=4,site=scholarpedia.org
 $boost=4,site=here.com
-$boost=7,site=welib.org
-$boost=7,site=pdfdrive.com
+$boost=5,site=welib.org
+$boost=5,site=pdfdrive.com
 $discard,site=google.com
 $discard,site=facebook.com
 $discard,site=youtube.com
