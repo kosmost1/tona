@@ -3,13 +3,14 @@
 ! public: false
 ! author: Dave Canopy
 
-$boost=7,site=britannica.com
+$boost=6,site=britannica.com
 $boost=6,site=openstreetmap.org
 $boost=4,site=odysee.com
 $boost=4,site=bittube.video
 $boost=4,site=scholarpedia.org
 $boost=4,site=here.com
 $boost=7,site=welib.org
+$boost=7,site=pdfdrive.com
 $discard,site=google.com
 $discard,site=facebook.com
 $discard,site=youtube.com
@@ -208,7 +209,6 @@ $discard,site=google.gr
 $discard,site=aweber.com
 $discard,site=tripadvisor.com
 $discard,site=reference.com
-$discard,site=archive.org
 $discard,site=bleacherreport.com
 $discard,site=caijing.com.cn
 $discard,site=avg.com
