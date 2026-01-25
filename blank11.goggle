@@ -7,10 +7,10 @@ $boost=3,site=britannica.com
 $boost=4,site=openstreetmap.org
 $boost=3,site=odysee.com
 $boost=3,site=bittube.video
-$boost=4,site=scholarpedia.org
-$boost=4,site=here.com
-$boost=4,site=welib.org
-$boost=4,site=pdfdrive.com
+$boost=3,site=scholarpedia.org
+$boost=3,site=here.com
+$boost=3,site=welib.org
+$boost=3,site=pdfdrive.com
 $discard,site=google.com
 $discard,site=facebook.com
 $discard,site=youtube.com
