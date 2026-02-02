@@ -11,7 +11,7 @@ $boost=3,site=scholarpedia.org
 $boost=3,site=here.com
 $boost=3,site=welib.org
 $boost=3,site=pdfdrive.com
-$boost=3,site=neocities.org
+$boost=4,site=neocities.org
 $discard,site=google.com
 $discard,site=facebook.com
 $discard,site=youtube.com
