@@ -19,7 +19,6 @@ $discard,site=facebook.com
 $discard,site=youtube.com
 $discard,site=yahoo.com
 $discard,site=baidu.com
-$discard,site=wikipedia.org
 $discard,site=twitter.com
 $discard,site=qq.com
 $discard,site=taobao.com
