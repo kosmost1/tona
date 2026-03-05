@@ -14,6 +14,7 @@ $boost=3,site=pdfdrive.com
 $boost=3,site=vdoc.pub
 $boost=3,site=cjhb.site
 $boost=3,site=neocities.org
+$boost=1,site=wikipedia.org
 $discard,site=google.com
 $discard,site=facebook.com
 $discard,site=youtube.com
@@ -29163,7 +29164,6 @@ $discard=4,site=www.washingtontimes.com
 $discard=8,site=chicagotribune.com
 $discard=8,site=foxnews.com
 $discard=8,site=techcrunch.com
-$discard=8,site=wikipedia.org
 ! US boosts
 $discard,site=allgemeine-zeitung.de
 $discard,site=ard.de
@@ -38782,7 +38782,6 @@ $discard,site=hianime.to
 $discard,site=linkmake.in
 $discard,site=litnet.com
 $discard,site=lectormangaa.com
-$discard,site=wikipedia.org
 $discard,site=googll.store
 $discard,site=forebet.com
 $discard,site=naver.com
