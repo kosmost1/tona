@@ -3,7 +3,7 @@
 ! public: false
 ! author: Dave Canopy
 
-$boost=3,site=britannica.com
+$boost=2,site=britannica.com
 $boost=4,site=openstreetmap.org
 $boost=2,site=odysee.com
 $boost=2,site=bittube.video
